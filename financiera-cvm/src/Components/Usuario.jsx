@@ -74,6 +74,7 @@ const UserInformation = () => {
         </Col>
       </Row>
     </Container>
+    
   );
 };
 
