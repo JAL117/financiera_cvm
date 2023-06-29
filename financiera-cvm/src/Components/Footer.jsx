@@ -12,7 +12,6 @@ const Footer = () => {
     <footer className="text-light" style={{ marginTop: "15%" , backgroundColor:'#003559' }}>
       <Container>
         <Row style={{ padding: "20px" }}>
-          <h1>Hola</h1>
           <Col md={4}>
             <h5>Contacto</h5>
             <ul className="list-unstyled">
